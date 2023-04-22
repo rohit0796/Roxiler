@@ -1,0 +1,25 @@
+.right {
+    background-color: #E5BEEC;
+    flex: 3;
+    margin: 5px 5px;
+    text-align: justify;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    border:2px solid #2A2F4F;
+    color: #2A2F4F;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.tab
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.tab td{
+    font-size: 1.3rem;
+}

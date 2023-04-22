@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.home{
+  display: flex;
+  height: 92vh;
+  width: 97vw;
+  padding: 20px;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* padding: 20px 2px; */
+  height: 100vh;
+  width: 100vw;
+ background-color: #FDE2F3;}
